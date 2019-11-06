@@ -1,0 +1,20 @@
+.titulo {
+    text-align: center;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.col-md-6>.row {
+    display: block;
+    margin: auto;
+}
+
+.index {
+    width: 60px;
+}
+
+#fecha {
+    width: 330px;
+}
