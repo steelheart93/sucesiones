@@ -1,2 +1,2 @@
 # sucesiones
-¿Cuál es el siguiente número de esta sucesión?
+¿Cuál es el siguiente número de esta sucesión? (Pendiente)
